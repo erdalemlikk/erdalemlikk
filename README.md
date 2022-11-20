@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Erdal</h1>
 
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, AI**
+- 🌱 I’m currently learning **GoLang**
 
 - 📫 How to reach me **erdalemlik@icloud.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/erdlemlk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erdlemlk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erdalemlik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdalemlik" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/erdalemli̇k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="erdalemli̇k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
